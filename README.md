@@ -1,7 +1,7 @@
 # Beatbox-player 🎵
 
 ## Overview
-**Beatbox-player** is a frontend-only clone of the Spotify Web Player. It recreates the look and layout of the original Spotify interface using clean HTML, CSS, and JavaScript. This project focuses on UI/UX and responsive design — no actual music playback or API integration (yet!).
+**Beatbox-player** is a frontend-only clone of the Spotify Web Player. It recreates the look and layout of the original Spotify interface using clean HTML, CSS, and JavaScript. This project focuses on UI/UX and responsive design.
 
 > ⚠️ This is a frontend-only project created for learning and portfolio purposes. It does not stream music or connect to Spotify APIs.
 
